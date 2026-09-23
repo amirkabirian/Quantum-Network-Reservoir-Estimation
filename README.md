@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)
 
 An advanced quantum-inspired machine learning framework for predicting dynamic non-linear noise and estimating entanglement fidelity in quantum network channels using **Orthogonal Unitary Reservoir Computing**.
 
@@ -39,6 +39,6 @@ quantum-network-reservoir-estimation/
 │   └── 03_state_estimation_demo.ipynb # Full pipeline & evaluation
 │
 ├── .gitignore
-├── LICENSE                            # MIT License
+├── LICENSE                            # All Rights Reserved License
 ├── README.md                          # Project Documentation
 └── requirements.txt                   # Dependency list
